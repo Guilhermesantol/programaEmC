@@ -1,0 +1,3 @@
+C:/atividade2semestre_alberane/cmake-build-debug/CMakeFiles/atividade2semestre_alberane.dir
+C:/atividade2semestre_alberane/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/atividade2semestre_alberane/cmake-build-debug/CMakeFiles/rebuild_cache.dir
